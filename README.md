@@ -35,6 +35,5 @@
 
 
 ## Overview
-This game was developed with Gamifier, It's a memory card game developed to celebrate Saudi Foundation Day with players.
-I was responsible for implementing the leaderboard system using PlayFab, enabling real-time score tracking and player rankings. In addition to backend programming, I also handled art integration, adjusting and implementing visual assets to match the game’s layout and theme. This project combined cultural celebration with engaging gameplay to create a festive and interactive player experience.
+Developed a culturally themed memory card game to celebrate Saudi Foundation Day. I implemented the leaderboard system using PlayFab, enabling real-time score tracking and player rankings. In addition to backend integration, I managed the visual asset implementation—adapting and placing artwork to fit the game’s layout and theme. This project blended cultural significance with interactive gameplay, delivering a festive and engaging experience for players.
 
