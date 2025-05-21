@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div>
-<h3><img align="left" height="300" src="Assets/Assets/GamifireAssets/Unity_uVRuHcPpij.png"> <br/> <p align="left">Memory card - foundation day theme
+<h3><img align="left" height="200" src="Assets/Assets/GamifireAssets/Unity_uVRuHcPpij.png"> <br/> <p align="left">Memory card - foundation day theme
 </p>
 </div>   
   
